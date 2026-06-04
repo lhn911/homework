@@ -1,8 +1,10 @@
 # homework
 
-写作业用# Hello项目练习
+写作业用# HelloWorld项目
 
-V1：基础打印HelloWorld
+版本1：基础打印HelloWorld
+
+版本2：input接收键盘输入并输出
 
 
 
